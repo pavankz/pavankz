@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pavankz
+- 👋 Hi, I’m Pavan Kumar
 - 👀 I’m interested in Climate Change challenges
-- 🌱 I’m currently learning Machine Learning for Water and Climate Change problems
+- 🌱 I’m currently learning Machine Learning  for Water and Climate Change problems
 - 💞️ I’m looking to collaborate on any project work related to data driven and remote sensing
 - 📫 How to reach me --> pavankumaar.amgoth@gmail.com
 - ⚡ Fun fact: There is always something new to learn
