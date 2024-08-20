@@ -1,6 +1,2 @@
-# $$ Pavan Kumar Amgoth $$
-
-<!---
-pavankz/pavankz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Pavan Kumar Amgoth
+## Master student in Climate and Earth Science | AI for Climate and Water | Remote Sensing and GIS | Land-Use Land-Cover | Data Science
