@@ -8,7 +8,7 @@ My research interest includes: Remote Sensing, Geographic Information System (GI
 
 
 ## My Tools: 
-- GIS Softwares: [QGIS](https://qgis.org/en/site/)
+- GIS Softwares: [QGIS]()
 - Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com/)
 - Geospatial & Big Data Analysis: [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
 - Satistics and Visualizations: [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) |[Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
@@ -33,4 +33,10 @@ My research interest includes: Remote Sensing, Geographic Information System (GI
 </a>
 <a href="https://www.javascript.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50">
+</a>
+<a href="https://www.qgis.org/">
+    <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="50" height="50">
+</a>
+<a href="https://earthengine.google.com/">
+    <img src="https://code.earthengine.google.com/images/GoogleEarthEngine_v1.png" alt="Google Earth Engine" width="500" height="60">
 </a>
