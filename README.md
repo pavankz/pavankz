@@ -8,5 +8,11 @@ My research interest includes: Remote Sensing, Geographic Information System (GI
 
 For more information contact:
 
+[LinkedIn](https://www.linkedin.com/in/pavan-kumar-amgoth/)
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/pavan-kumar-amgoth/)
+
+## My Tools: 
+- GIS Softwares: [QGIS](https://qgis.org/en/site/)
+- Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com/)
+- Geospatial & Big Data Analysis: [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
+- Satistics and Visualizations: [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) |[Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
