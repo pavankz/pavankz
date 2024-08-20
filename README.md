@@ -38,5 +38,5 @@ My research interest includes: Remote Sensing, Geographic Information System (GI
     <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="50" height="50">
 </a>
 <a href="https://earthengine.google.com/">
-    <img src="https://code.earthengine.google.com/images/GoogleEarthEngine_v1.png" alt="Google Earth Engine" width="500" height="60">
+    <img src="https://code.earthengine.google.com/images/GoogleEarthEngine_v1.png" alt="Google Earth Engine" width="250" height="50">
 </a>
