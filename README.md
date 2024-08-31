@@ -38,7 +38,7 @@ My research interest includes Remote Sensing, Geographic Information System (GIS
     <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="50" height="50">
 </a>
 <a href="https://www.youtube.com/@pavankumaar__">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="60" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="60" height="46">
 </a>
 <a href="https://www.linkedin.com/in/pavan-kumar-amgoth">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="120" height="45">
