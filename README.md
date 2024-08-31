@@ -2,16 +2,16 @@
 ## Master student in Climate and Earth Science 👨‍🔬🎓 | AI for Climate and Water 🌍 | Hydroclimatic Extremes 🌊 | Remote Sensing and GIS 🛰️ |
 
 
-I am doing my MTech in Climate and Earth Science from [Centre for Atmospheric and Oceanic Sciences](https://caos.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/).
+I am an M.Tech student in Climate and Earth Science from [Centre for Atmospheric and Oceanic Sciences](https://caos.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/).
 
-My research interest includes: Remote Sensing, Geographic Information System (GIS) and climate change. More specically, I am interested in applying geospatial techniques, machine learning and cloud computing to study climate challenges.
+My research interest includes Remote Sensing, Geographic Information System (GIS), and climate change. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing to study climate challenges.
 
 
 ## My Tools: 
-- GIS Softwares: [QGIS]()
+- GIS Software: [QGIS]()
 - Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com/)
 - Geospatial & Big Data Analysis: [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
-- Satistics and Visualizations: [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) |[Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
+- Statistics and Visualizations: [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
 
 
 
