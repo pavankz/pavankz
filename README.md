@@ -1,5 +1,5 @@
 # Pavan Kumar Amgoth
-## Master student in Climate and Earth Science 👨‍🔬🎓 | AI for Climate and Water 🌍 | Remote Sensing and GIS 🛰️ | Hydroclimatic Extremes 🌊 |
+## Master student in Climate and Earth Science 👨‍🔬🎓 | AI for Climate and Water 🌍 | Hydroclimatic Extremes 🌊 | Remote Sensing and GIS 🛰️ |
 
 
 I am doing my MTech in Climate and Earth Science from [Centre for Atmospheric and Oceanic Sciences](https://caos.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/).
