@@ -12,7 +12,7 @@ My research interest includes Remote Sensing, Geographic Information System (GIS
 - Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com/)
 - Geospatial & Big Data Analysis: [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
 - Statistics and Visualizations: [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
-
+- For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Amgoth%20Pavan%20Kumar%20Resume.pdf)
 
 
 
