@@ -6,7 +6,7 @@
 ### **Machine Learning | Deep Learning | Signal Processing | Computer Vision | Satellite Image Processing**
 
 
-- For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Amgoth%20Pavan%20Kumar%20Resume.pdf)
+- For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Pavan_s_Resume.pdf)
 
 
 ## My Tools: 
