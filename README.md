@@ -2,14 +2,15 @@
 
 - I am an M.Tech student in Climate and Earth Science from [Centre for Atmospheric and Oceanic Sciences](https://caos.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/).
 
-### My Interests:
-#### Machine Learning | Deep Learning| Signal Processing | Computer Vision | Satellite Image Processing |
+## My Interests:
+### Machine Learning | Deep Learning| Signal Processing | Computer Vision | Satellite Image Processing |
 
 
 - For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Amgoth%20Pavan%20Kumar%20Resume.pdf)
 
 
-### My Tools: 
+## My Tools: 
+
 
 <a href="https://github.com/pavankz">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50">
