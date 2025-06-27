@@ -5,7 +5,7 @@
 ## My Interests:
 ### **Machine Learning | Deep Learning | Signal Processing | Computer Vision | Satellite Image Processing**
 
-- [Portfolio](https://sites.google.com/view/pavankumaramgoth?usp=sharing)
+- [Portfolio](https://pavankz.github.io/portfolio/)
 - For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Pavan_s_Resume.pdf)
 
 
@@ -40,8 +40,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="90" height="33">
 </a>
 
-<a href="https://earthengine.google.com/">
-    <img src="https://code.earthengine.google.com/images/GoogleEarthEngine_v1.png" alt="Google Earth Engine" width="200" height="40">
-</a>
 
 
