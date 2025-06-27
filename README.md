@@ -35,10 +35,7 @@
 </a>
 <a href="https://www.youtube.com/@pavankumaar__">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="35">
-</a>
-<a href="https://www.linkedin.com/in/pavan-kumar-amgoth">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="90" height="33">
-</a>
+
 
 
 
