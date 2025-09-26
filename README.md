@@ -1,9 +1,9 @@
 # Pavan Kumar Amgoth
 
-- I am an M.Tech student in Climate and Earth Science from [Centre for Atmospheric and Oceanic Sciences](https://caos.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/).
+- I am a Doctoral Researcher in Surfaces & Interfaces Continentales, Hydrologie from [CESBIO]([https://caos.iisc.ac.in/](https://www.cesbio.cnrs.fr/) at the [IRD]([https://iisc.ac.in/](https://en.ird.fr/).
 
 ## My Interests:
-### **Machine Learning | Deep Learning | Signal Processing | Computer Vision | Satellite Image Processing**
+### **Spatial Hydrology | Remote Sensing | Signal Processing | Computer Vision | Satellite Image Processing**
 
 - [Portfolio](https://pavankz.github.io/portfolio/)
 - For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Pavan_s_Resume.pdf)
