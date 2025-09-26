@@ -1,6 +1,6 @@
 # Pavan Kumar Amgoth
 
-- I am a Doctoral Researcher in Surfaces & Interfaces Continentales, Hydrologie from [CESBIO](https://caos.iisc.ac.in/](https://www.cesbio.cnrs.fr/)) at the [IRD](https://iisc.ac.in/](https://en.ird.fr/)).
+- I am a Doctoral Researcher in Surfaces & Interfaces Continentales, Hydrologie from [CESBIO](https://www.cesbio.cnrs.fr/) at the [IRD](https://en.ird.fr/).
 
 ## My Interests:
 ### **Spatial Hydrology | Remote Sensing | Signal Processing | Computer Vision | Satellite Image Processing**
