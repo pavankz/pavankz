@@ -6,7 +6,7 @@
 ### **Spatial Hydrology | Remote Sensing | Signal Processing | Computer Vision | Satellite Image Processing**
 
 - [Portfolio](https://pavankz.github.io/portfolio/)
-- For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Pavan_s_Resume.pdf)
+- For more details go through my [Resume](https://github.com/pavankz/pavankz/blob/main/Curriculum%20Vitae.pdf)
 
 
 ## My Tools: 
