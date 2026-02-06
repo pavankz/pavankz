@@ -24,9 +24,6 @@
 <a href="https://jupyter.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40">
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Microsoft Excel" width="40" height="40">
-</a>
 <a href="https://www.javascript.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40">
 </a>
