@@ -30,8 +30,6 @@
 <a href="https://www.qgis.org/">
     <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40">
 </a>
-<a href="https://www.youtube.com/@pavankumaar__">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="35">
 
 
 
